@@ -2,6 +2,9 @@
 
 **Academic Group Project | Associated with a Published Indian Patent Application**
 
+<img width="595" height="675" alt="Screenshot 2026-09-24 010327" src="https://github.com/user-attachments/assets/12832ed8-2080-4317-9a8c-3bd6caf6618b" />
+
+
 Vox is a real-time multilingual chat application developed as part of an academic group project to facilitate seamless communication between users speaking different languages. The application automatically translates messages into each recipient's preferred language, enabling users to converse naturally without language barriers.
 
 By integrating real-time messaging with AI-powered translation, Vox provides an intuitive communication platform where users can exchange messages instantly while receiving translations in their selected language.
